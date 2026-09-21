@@ -1,0 +1,32 @@
+patient_id,age,gender,doctor,department,appointment_time,consultation_start_time,glucose,cholesterol,heart_rate,spo2,temperature,diagnosis,treatment
+P001,45,Male,Dr. Rao,Cardiology,2026-09-01 09:00,2026-09-01 09:25,112 mg/dL,188 mg/dL,82 bpm,98%,36.7 C,Hypertension,Medication
+P002,32,Female,Dr. Priya,General Medicine,2026-09-01 09:15,2026-09-01 09:35,96 mg/dL,165 mg/dL,76 bpm,99%,36.5 C,Fever,Antipyretic
+P003,67,Male,Dr. Kumar,Cardiology,2026-09-01 10:00,2026-09-01 10:48,145 mg/dL,220 mg/dL,91 bpm,95%,37.1 C,Diabetes,Insulin
+P004,28,Female,Dr. Anitha,Dermatology,2026-09-01 10:30,2026-09-01 10:45,89 mg/dL,154 mg/dL,72 bpm,99%,36.4 C,Skin Allergy,Cream
+P005,54,Male,Dr. Rao,Cardiology,2026-09-01 11:00,2026-09-01 11:42,130 mg/dL,205 mg/dL,88 bpm,96%,36.9 C,Hypertension,Medication
+P006,41,Female,Dr. Priya,General Medicine,2026-09-01 11:15,2026-09-01 11:31,,178 mg/dL,79 bpm,98%,36.6 C,Migraine,Pain Relief
+P007,73,Male,Dr. Kumar,Neurology,2026-09-01 12:00,2026-09-01 12:55,158 mg/dL,230 mg/dL,94 bpm,93%,37.4 C,Stroke Risk,Observation
+P008,36,Female,Dr. Anitha,Dermatology,2026-09-01 12:30,2026-09-01 12:50,91 mg/dL,160 mg/dL,74 bpm,99%,36.5 C,Eczema,Ointment
+P009,59,Male,Dr. Rao,Cardiology,2026-09-01 13:00,2026-09-01 13:37,124 mg/dL,198 mg/dL,86 bpm,97%,36.8 C,Chest Pain,ECG
+P010,24,Female,Dr. Priya,General Medicine,2026-09-01 13:15,2026-09-01 13:28,88 mg/dL,142 mg/dL,70 bpm,99%,36.3 C,Viral Fever,Rest
+P011,62,Male,Dr. Kumar,Neurology,2026-09-02 09:00,2026-09-02 09:52,138 mg/dL,214 mg/dL,89 bpm,94%,37.0 C,Neurological Disorder,Medication
+P012,48,Female,Dr. Anitha,Dermatology,2026-09-02 09:30,2026-09-02 09:47,105 mg/dL,170 mg/dL,77 bpm,98%,36.6 C,Dermatitis,Cream
+P013,39,Male,Dr. Rao,Cardiology,2026-09-02 10:00,2026-09-02 10:40,118 mg/dL,190 mg/dL,84 bpm,,36.8 C,Hypertension,Medication
+P014,51,Female,Dr. Priya,General Medicine,2026-09-02 10:15,2026-09-02 10:29,99 mg/dL,175 mg/dL,75 bpm,98%,36.5 C,Cold,Medication
+P015,69,Male,Dr. Kumar,Neurology,2026-09-02 11:00,2026-09-02 11:58,150 mg/dL,225 mg/dL,96 bpm,92%,37.5 C,Stroke Risk,Observation
+P016,31,Female,Dr. Anitha,Dermatology,2026-09-02 11:30,2026-09-02 11:48,93 mg/dL,158 mg/dL,73 bpm,99%,36.4 C,Acne,Treatment
+P017,57,Male,Dr. Rao,Cardiology,2026-09-02 12:00,2026-09-02 12:36,129 mg/dL,210 mg/dL,87 bpm,96%,36.9 C,Heart Disease,Medication
+P018,43,Female,Dr. Priya,General Medicine,2026-09-02 12:30,2026-09-02 12:52,101 mg/dL,168 mg/dL,78 bpm,98%,36.7 C,Fever,Antipyretic
+P019,75,Male,Dr. Kumar,Neurology,2026-09-02 13:00,2026-09-02 13:50,160 mg/dL,235 mg/dL,98 bpm,91%,37.6 C,Stroke Risk,Observation
+P020,26,Female,Dr. Anitha,Dermatology,2026-09-02 13:15,2026-09-02 13:30,87 mg/dL,149 mg/dL,71 bpm,99%,36.2 C,Skin Allergy,Cream
+P021,150,Male,Dr. Rao,Cardiology,2026-09-03 09:00,2026-09-03 09:33,115 mg/dL,185 mg/dL,83 bpm,97%,36.7 C,Hypertension,Medication
+P022,35,Female,Dr. Priya,General Medicine,2026-09-03 09:30,2026-09-03 09:46,94 mg/dL,155 mg/dL,74 bpm,99%,36.4 C,Migraine,Pain Relief
+P023,64,Male,Dr. Kumar,Neurology,2026-09-03 10:00,2026-09-03 10:44,142 mg/dL,218 mg/dL,90 bpm,94%,37.2 C,Neurological Disorder,Medication
+P024,49,Female,Dr. Anitha,Dermatology,2026-09-03 10:30,2026-09-03 10:51,108 mg/dL,172 mg/dL,79 bpm,98%,36.6 C,Eczema,Ointment
+P025,58,Male,Dr. Rao,Cardiology,2026-09-03 11:00,2026-09-03 11:46,132 mg/dL,202 mg/dL,89 bpm,95%,37.0 C,Chest Pain,ECG
+P026,29,Female,Dr. Priya,General Medicine,2026-09-03 11:30,2026-09-03 11:43,90 mg/dL,150 mg/dL,72 bpm,99%,36.3 C,Viral Fever,Rest
+P027,71,Male,Dr. Kumar,Neurology,2026-09-03 12:00,2026-09-03 12:57,155 mg/dL,228 mg/dL,95 bpm,93%,37.4 C,Stroke Risk,Observation
+P028,38,Female,Dr. Anitha,Dermatology,2026-09-03 12:30,2026-09-03 12:49,92 mg/dL,162 mg/dL,76 bpm,99%,36.5 C,Dermatitis,Cream
+P029,55,Male,Dr. Rao,Cardiology,2026-09-03 13:00,2026-09-03 13:39,127 mg/dL,207 mg/dL,86 bpm,96%,36.8 C,Heart Disease,Medication
+P030,42,Female,Dr. Priya,General Medicine,2026-09-03 13:30,2026-09-03 13:48,100 mg/dL,169 mg/dL,77 bpm,98%,36.6 C,Cold,Medication
+P001,45,Male,Dr. Rao,Cardiology,2026-09-01 09:00,2026-09-01 09:25,112 mg/dL,188 mg/dL,82 bpm,98%,36.7 C,Hypertension,Medication
